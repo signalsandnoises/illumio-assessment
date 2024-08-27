@@ -1,6 +1,6 @@
 This challenge was completed using Python 3 in a Jupyter notebook. Output files were generated and committed. For easy verification, you can run `demo.py` with any Python 3.X interpreter; it contains all the same code in the Jupyter notebook.
 
-Alternatively, you can view assessment.pdf
+Alternatively, you can just click on assessment.ipynb.
 
 ----
 
